@@ -1,0 +1,30 @@
+src/
+├── application/
+│   ├── hooks/
+│   ├── services/
+│   └── store/
+├── domain/
+│   ├── entities/
+│   ├── repositories/
+│   ├── useCases/
+│   └── valueObjects/
+├── infrastructure/
+│   ├── api/
+│   ├── cache/
+│   ├── navigation/
+│   └── storage/
+├── presentation/
+│   ├── components/
+│   │   ├── atoms/
+│   │   ├── molecules/
+│   │   └── organisms/
+│   ├── screens/
+│   │   ├── explore/
+│   │   ├── home/
+│   │   └── shared/
+│   ├── viewModels/
+│   └── theme/
+└── utils/
+    ├── constants/
+    ├── helpers/
+    └── types/ 
